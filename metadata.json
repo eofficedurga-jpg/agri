@@ -1,0 +1,6 @@
+{
+  "name": "RythuDesk",
+  "description": "The Evening WhatsApp Reply Fix and Order Desk Fix for agri input dealers in Kakinada. Turn late-night farmer queries into booked orders automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
